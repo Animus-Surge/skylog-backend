@@ -1,0 +1,11 @@
+*.sqlite
+*.db
+*.log
+*.pyc
+__pycache__/
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+
+poetry.lock
